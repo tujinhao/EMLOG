@@ -8,6 +8,7 @@ int main() {
 
 	EMLOG(LOG_INFO,"b = %d",b);
 	return 0;
+	//test
 	
 
 }
